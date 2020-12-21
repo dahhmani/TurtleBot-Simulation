@@ -1,4 +1,5 @@
 # TurtleBot Simulation
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 This project implements obstacle avoidance for a turtlebot3 robot in a gazebo simulation.
 
 ## Author
